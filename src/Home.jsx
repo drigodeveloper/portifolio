@@ -182,7 +182,7 @@ export default function Home() {
           </a>
          
           <a
-            href="https://wa.me/5521988720345?text=Ol%C3%A1%2C%20Rodrigo!%20Vim%20pelo%20seu%20portf%C3%B3lio%20de%20edi%C3%A7%C3%A3o."
+            href=" href={import.meta.env.VITE_WHATSAPP_URL}"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp"
