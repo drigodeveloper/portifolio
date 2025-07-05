@@ -78,7 +78,7 @@ const BackButton = styled.button`
   }
 `;
 
-// 🎯 Dicionário com vídeos por categoria
+
 const videoData = {
   video1: {
     title: "Conteúdo Dinâmico & Trends",

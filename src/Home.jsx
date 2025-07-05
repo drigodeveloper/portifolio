@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { FaLinkedin, FaWhatsappSquare, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaWhatsappSquare } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import profileImage from "./assets/profileImage.png"; 
 
