@@ -180,14 +180,7 @@ export default function Home() {
           >
             <FaLinkedin />
           </a>
-          <a
-            href="https://instagram.com/seuinsta"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Instagram"
-          >
-            <FaInstagram />
-          </a>
+         
           <a
             href="https://wa.me/5521988720345?text=Ol%C3%A1%2C%20Rodrigo!%20Vim%20pelo%20seu%20portf%C3%B3lio%20de%20edi%C3%A7%C3%A3o."
             target="_blank"
