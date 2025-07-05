@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { FaLinkedin, FaWhatsappSquare } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
-import profileImage from "./assets/profileImage.png"; 
+import camera from "./assets/camera.png"; 
 
 const Container = styled.div`
   max-width: 1000px;
@@ -145,7 +145,7 @@ export default function Home() {
   return (
     <Container>
       <Header>
-        <ProfileImage src={profileImage} alt="Rodrigo Campos" />
+        <ProfileImage src={camera} alt="Rodrigo Campos" />
         <NameAndTitle>
           <Name>Rodrigo Campos</Name>
           <Title>Editor de Vídeo Profissional</Title>
