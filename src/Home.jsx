@@ -26,12 +26,13 @@ const Header = styled.header`
 `;
 
 const ProfileImage = styled.img`
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 3px solid #1db954;
+  width: 200px;       
+  height: auto;       
+  border-radius: 0;   
+  object-fit: contain; 
+  border: none;        
 `;
+
 
 const NameAndTitle = styled.div`
   flex: 1;
