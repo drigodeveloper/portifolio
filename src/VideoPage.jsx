@@ -89,6 +89,10 @@ const videoData = {
       "https://www.youtube.com/embed/pGBgmojIQz0",
       "https://www.youtube.com/embed/knQ-dwcUP2Q",
       "https://www.youtube.com/embed/szZzXWDJ0Qs",
+      "https://www.youtube.com/embed/Xo7q7a9TRhc",
+      "https://www.youtube.com/embed/n1iznm-6-XE",
+
+    
     ],
   },
   video2: {
