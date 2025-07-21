@@ -83,16 +83,19 @@ const videoData = {
   video1: {
     title: "Conteúdo Dinâmico & Trends",
     videos: [
+      "https://www.youtube.com/embed/Xo7q7a9TRhc",
+      "https://www.youtube.com/embed/n1iznm-6-XE",
+      "https://www.youtube.com/embed/VrStGUnzCNc",
+      "https://www.youtube.com/embed/cXn_id_rWEQ",
+      "https://www.youtube.com/embed/BlxTN-10hlg",
+      "https://www.youtube.com/embed/Kc-f6Z07wzQ",
       "https://www.youtube.com/embed/qgZEcjWrpzA",
       "https://www.youtube.com/embed/EIr13M2ZeZ0",
       "https://www.youtube.com/embed/4jLZ9rRSwhE",
       "https://www.youtube.com/embed/pGBgmojIQz0",
       "https://www.youtube.com/embed/knQ-dwcUP2Q",
       "https://www.youtube.com/embed/szZzXWDJ0Qs",
-      "https://www.youtube.com/embed/Xo7q7a9TRhc",
-      "https://www.youtube.com/embed/n1iznm-6-XE",
-
-    
+   
     ],
   },
   video2: {
